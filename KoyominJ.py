@@ -12,5 +12,3 @@ if Mode is not None:
     VN_frame = mainWindow.VN_window(None,"TEST",Mode)
     VN_frame.Show()
     app.MainLoop()
-
-
